@@ -21,7 +21,9 @@ span{
     font-size: 25px;
     color: rgb(129, 59, 129);
 }
-
+.diet_content{
+  width: 50%;
+}
 .arranging_diet_flex{
     display: flex;
     gap: 50px;
